@@ -1,3 +1,3 @@
 # pong
 
-Jogo pong desenvolvido em Python.
+Classic Pong game.
